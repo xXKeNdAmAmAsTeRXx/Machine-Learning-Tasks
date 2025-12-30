@@ -41,7 +41,7 @@ AGH University of Science and Technology.
 - Drawing Tree
 - Random Forest
 
-[Classification Trees with analysis and pruning](Tree_methods/Classification_tree.ipynb)
+[Classification Trees with analysis and pruning](Tree_methods/Classification_tree.ipynb) </br>
 [Regression Trees with Random Forest Regressor Params Analysis](Tree_methods/Tree_params.ipynb)
 
 ### Project - Exam Score Prediction
