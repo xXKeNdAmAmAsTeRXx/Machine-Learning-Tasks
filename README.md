@@ -51,7 +51,7 @@ This Project Includes following steps:
 - [Statistical Testing of Piplines](Project_Exam_Score/3_Data_Exam_Score_testing.ipynb)
 - [Coefficients Analysis of Linear Model](Project_Exam_Score/4_Coef_analysis.ipynb)
 - [Analysis of Random Forest and Simple Decision Tree](Project_Exam_Score/5_Forest_Analysis.ipynb)
-- [Final Model with example Observation Prediction](Project_Exam_Score/6_FInal_Model_and_Evaluation.ipynb)
+- [Final Model with example Observation Prediction](Project_Exam_Score/6_Final_Model_and_Evaluation.ipynb)
 
 Project [Exam Score Prediction](Project_Exam_Score)
 
