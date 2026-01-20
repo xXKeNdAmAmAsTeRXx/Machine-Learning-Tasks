@@ -17,7 +17,6 @@ AGH University of Science and Technology.
 
 - classifiers: Logistic Regression, LDA, QDA, Gaussian Bayes and KNN 
 - MNIST digits data set classification (with HOG)
-- multilabel and multinomial classification
 - well known statistics calculation (such as ROC area)
 - model parameters optimization with Optuna
 
